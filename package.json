@@ -1,0 +1,14 @@
+{
+	"name": "chaiIssue",
+	"version": "0.0.1",
+	"dependencies": {},
+	"devDependencies": {
+		"chai": "^4.1.2"
+	},
+	"author": "CodeTroopers",
+	"license": "GPL-3.0",
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/CodeTroopers/chaiIssue.git"
+	}
+}
